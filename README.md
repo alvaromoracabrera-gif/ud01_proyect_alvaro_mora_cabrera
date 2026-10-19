@@ -30,5 +30,3 @@ else:
     If the variable equals to 2, it converts euros to dollars
     And if the variable isn't 1 or 2, it finishes the code
 """
-
-hola
